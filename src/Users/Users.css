@@ -1,0 +1,31 @@
+h2 {
+    color: #1971c2;   
+    
+}
+
+.heading{
+    margin-left: 33%;
+}
+
+
+.table {
+    width: 80%;
+    background: #f8f9fa;
+    text-align: center;
+    vertical-align: middle
+
+}
+
+.main_div{
+    margin-left: 16% ;
+}
+
+
+.edit-btns {
+    margin-left: 64%;
+   
+}
+
+.action_btn .btn{
+    margin: 2px;
+}

@@ -1,0 +1,61 @@
+
+  .addUser .addUser-form {
+    width: 40%;
+    height: 25.4rem;
+    margin-left: 30%;
+    /* display: inline-block; */
+    /* border-top: 3px solid  #228be6;
+    border-bottom: 3px solid  #228be6; */
+    border: 3px solid  #228be6;
+    padding: 35px;
+    background: #fff;
+    /* box-shadow: 0 0 24px 0 rgba(0, 0, 0, 0.12); */
+  }
+  .addUser .addUser-form .form-group {
+    padding-bottom: 8px;
+    /* margin-left: 10%; */
+    margin-left: 45px;
+    width: 80%;  
+}
+
+
+label {
+    margin-bottom: 3px
+}
+  .addUser .addUser-form input, .addUser .addUser-form textarea {
+    border-radius: 0;
+    box-shadow: none;
+    font-size: 14px;
+  }
+
+
+  .addUser .addUser-form input {
+      margin-bottom: 5px;
+  }
+
+  /* .addUser .addUser-form input  {
+    height: 44px; 
+    margin-left: 20px;
+    width: 80%; 
+  } */
+
+  /* .addUser .addUser-form label  {
+
+    margin-left: 50%;
+  } */
+
+  .addUser .addUser-form textarea {
+    padding: 10px 12px;
+  }
+  .addUser .addUser-form .buttons {
+    /* background:  #228be6; */
+
+    border: 0;
+    /* padding: 10px 24px; */
+    /* color: #fff; */
+    transition: 0.4s;
+    /* border-radius: 4px; */
+  }
+  /* .addUser .addUser-form button[type=submit]:hover {
+    background: #ef7f4d;
+  } */
